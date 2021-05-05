@@ -8,4 +8,4 @@
 
 - Next JS
 
-Kullanilarak ornek blo sitesi olusturma
+Kullanilarak ornek blog sitesi olusturma
